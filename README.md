@@ -1,4 +1,3 @@
-
 # 🛰️ Hyperspectral Change Detection with STSS-Net
 
 This repository provides the implementation of our change detection framework on hyperspectral imagery. The model supports patch-based training and is evaluated on datasets such as **Santa Barbara**.
@@ -84,4 +83,3 @@ python train_cd.py --patches 9 --project_name Santa_p9_8 --max_epochs 60 --lr_po
 ## 📋 Citation
 
 If you use this code in your research, please cite our paper (BibTeX will be provided upon publication).
-
